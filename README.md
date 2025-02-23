@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Aliraza Bugti
+# Hello Devs! 👋 I am Ali Raza
 
 Welcome to my GitHub profile! I'm a computer science student passionate about backend and full-stack development, as well as data science.
 
@@ -24,8 +24,9 @@ Welcome to my GitHub profile! I'm a computer science student passionate about ba
 - Recommendations for coding resources and projects.
 
 ## 📫 How to reach me:
-- [LinkedIn](your-linkedin-url)
-- [Email](your-email@example.com)
+- [LinkedIn](https://www.linkedin.com/notifications/?filter=all)
+- [GitHub](https://github.com/alirazabugti1)
+- [Email](your-email@example.com) *(replace with your email)*
 
 ## 😄 Pronouns:
 He/Him
