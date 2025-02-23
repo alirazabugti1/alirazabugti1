@@ -24,13 +24,11 @@ Welcome to my GitHub profile! I'm a computer science student passionate about ba
 - Recommendations for coding resources and projects.
 
 ## 📫 How to reach me:
-<a href="https://www.linkedin.com/notifications/?filter=all" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="30" height="30"/>
-</a>
-<a href="https://github.com/alirazabugti1" target="_blank">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="30" height="30"/>
-</a>
-- [Email](your-email@example.com) *(replace with your email)*
+| Platform | Link |
+|----------|------|
+| <a href="https://www.linkedin.com/notifications/?filter=all" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="30" height="30"/></a> | [LinkedIn](https://www.linkedin.com/notifications/?filter=all) |
+| <a href="https://github.com/alirazabugti1" target="_blank"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="30" height="30"/></a> | [GitHub](https://github.com/alirazabugti1) |
+| Email | [your-email@example.com](mailto:your-email@example.com) *(replace with your email)* |
 
 ## 😄 Pronouns:
 He/Him
