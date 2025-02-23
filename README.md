@@ -20,7 +20,7 @@
   <li>👯 I’m looking to collaborate on **Mobile Apps (Flutter)** and **Full Stack Web Applications**.</li>
   <li>💬 Ask me about **Flutter, Django, Backend, APIs, and Frontend Development**.</li>
   <li>📫 How to reach me:
-    <br>📩 Email: alirazabugti.dev@gmail.com  
+    <br>📩 Email: razabugtiali@gmail.com  
     <br>🔗 Connect on <a href="https://www.linkedin.com/notifications/?filter=all">LinkedIn</a>
   </li>
   <li>⚡ Fun fact: **Coding is like solving puzzles; the more you practice, the better you get!**</li>
