@@ -1,11 +1,11 @@
 <h3 align="center">
-  Welcome to Ali Raza Bugti's Profile!
+  Hello Devs, I am Ali Raza Bugti!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <p align="center">
   <a href="https://github.com/alirazabugti1">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+GitHub!;I+am+Ali+Raza+Bugti;Passionate+Flutter+%26+Full+Stack+Developer;Django+%26+Data+Science+Enthusiast;Always+Learning+New+Technologies">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+there!;I+am+Ali+Raza+Bugti;A+Passionate+Flutter+%26+Full+Stack+Developer;Django+%26+Data+Science+Enthusiast;Always+Learning+New+Technologies">
   </a>
 </p>
 
