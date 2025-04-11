@@ -32,4 +32,10 @@
   </a>
 </p>
 
+<h3 align="center">GitHub Stats</h3>
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=alirazabugti1&theme=react&show_icons=true&include_all_commits=true">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirazabugti1&theme=react&layout=compact">
+</p>
+
 <hr>
