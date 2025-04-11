@@ -1,89 +1,65 @@
-<h3 align="center">
-  Hello Devs, I am Ali Raza Bugti!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+<div align="center">
+  <h2>𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 &lt;𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/&gt;! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+</div>
 
-<p align="center">
-  <a href="https://github.com/alirazabugti1">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+there!;I+am+Ali+Raza+Bugti;Flutter+%26+Full+Stack+Dev;Django+%26+Data+Science+Learner;Always+Improving!">
-  </a>
-</p>
-
-<hr>
+<div align="center" width="50">
+  <img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300">
+</div>
 
 <div align="center">
-<h1>💫 About Me :</h1>
-<ul>
-  <li>🔭 I’m currently working on <strong>Flutter, Web Development, and Backend Development</strong>.</li>
-  <li>🌱 I’m currently <strong>learning Django, Python, and Data Science</strong>.</li>
-  <li>👯 I’m looking to collaborate on <strong>Mobile Apps (Flutter)</strong> and <strong>Full Stack Web Applications</strong>.</li>
-  <li>💬 Ask me about <strong>Flutter, Django, Backend, APIs, and Frontend Development</strong>.</li>
-  <li>📫 How to reach me:
-    <br>📩 Email: razabugtiali@gmail.com  
-    <br>🔗 Connect on <a href="https://www.linkedin.com/notifications/?filter=all">LinkedIn</a>
-    <br>📄 View my <a href="https://drive.google.com/drive/u/0/folders/1B8priGxtBDWcK-EnsYmnxwZ9iVwtGndk">CV</a>
-  </li>
-  <li>⚡ Fun fact: <strong>Coding is like solving puzzles; the more you practice, the better you get!</strong></li>
-</ul>
-
-<h2>🌐 Socials</h2>
-<p>
-  <a href="https://www.linkedin.com/notifications/?filter=all">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/alirazabugti1">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
-
-<h1>💻 Tech Stack</h1>
-<p>
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
-</p>
-
-<h1>📊 GitHub Stats :</h1>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=alirazabugti1&theme=radical&hide_border=false&include_all_commits=false&count_private=true" alt="">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alirazabugti1&theme=radical&hide_border=false" alt="">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirazabugti1&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="">
-</p>
-
-<h2>🏆 GitHub Trophies</h2>
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=alirazabugti1&theme=discord&no-frame=false&no-bg=false&margin-w=4" alt="">
-</p>
-
-<h3>📕 Latest Blog Posts</h3>
-<!-- BLOG-POST-LIST:START -->
-<p><a href="#">Coming soon...</a></p>
-<!-- BLOG-POST-LIST:END -->
-<p>➡️ <a href="#">More blog posts…</a></p>
-
-<h3>✍️ Random Dev Quote</h3>
-<p>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="">
-</p>
-
-<hr>
-
-<h2>
-  <img src="https://forthebadge.com/images/badges/powered-by-black-magic.svg" alt="">
-  <img src="http://ForTheBadge.com/images/badges/built-by-developers.svg" alt="">
-  <img src="https://forthebadge.com/images/badges/uses-brains.svg" alt="">
-</h2>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=alirazabugti1&label=Visitors+Count&color=brightgreen" alt="">
-</p>
-
+  <p>Welcome to my GitHub! <br>
+  Feel free to explore my projects, raise issues, and contribute if you find something interesting. <br>
+  Got a question? <a href="mailto:razabugtiali@gmail.com"><b>Email me</b></a></p>
+  <p><i>Happy Coding!</i> 😊</p>
 </div>
+
+---
+
+### 👨‍💻 About Me
+- 🎓 I'm **Ali Raza Bugti**, a BSCS student at Mohammad Ali Jinnah University (MAJU), Karachi.
+- 💻 Passionate about **Flutter**, **React Native**, and building innovative tech solutions.
+- 🌱 Currently learning and building in **Mobile App Dev**, **React**, and **Backend with Flask**.
+
+---
+
+### 🚀 Tech Stack
+- **Languages**: C++, C, Python, JavaScript, Dart  
+- **Frameworks & Tools**: Flutter, React.js, React Native  
+- **Database**: Firebase, MongoDB, SQL Server  
+- **Version Control**: Git & GitHub  
+
+---
+
+### 📱 Projects
+
+- 🔹 **Instagram Clone**  
+  Flutter-based UI, with login/logout, reels browser, and interactive post interface.
+
+- 🔹 **Finance Tracker App**  
+  Expense tracking, transaction history, and Firebase Auth integration.
+
+- 🔹 **Student Performance Analytics Dashboard**  
+  React + Flask dashboard to visualize student data with performance trends.
+
+- 🔹 **Amazon Clone**  
+  A responsive UI clone with product listings and shopping cart using HTML/CSS.
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alirazabugti1&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ali Raza's GitHub Stats">
+</div>
+
+---
+
+### 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ali-raza-bugti-42965a237/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
+
+---
+
+<i>Last updated: April 2025</i>  
+<i>Credits: Modified from ABSphreak</i>
