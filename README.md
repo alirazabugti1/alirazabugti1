@@ -9,21 +9,21 @@
   </a>
 </p>
 
-
 <hr>
 
 <div align="center">
 <h1>💫 About Me :</h1>
 <ul>
-  <li>🔭 I’m currently working on **Flutter, Web Development, and Backend Development**.</li>
-  <li>🌱 I’m currently **learning Django, Python, and Data Science**.</li>
-  <li>👯 I’m looking to collaborate on **Mobile Apps (Flutter)** and **Full Stack Web Applications**.</li>
-  <li>💬 Ask me about **Flutter, Django, Backend, APIs, and Frontend Development**.</li>
+  <li>🔭 I’m currently working on <strong>Flutter, Web Development, and Backend Development</strong>.</li>
+  <li>🌱 I’m currently <strong>learning Django, Python, and Data Science</strong>.</li>
+  <li>👯 I’m looking to collaborate on <strong>Mobile Apps (Flutter)</strong> and <strong>Full Stack Web Applications</strong>.</li>
+  <li>💬 Ask me about <strong>Flutter, Django, Backend, APIs, and Frontend Development</strong>.</li>
   <li>📫 How to reach me:
     <br>📩 Email: razabugtiali@gmail.com  
     <br>🔗 Connect on <a href="https://www.linkedin.com/notifications/?filter=all">LinkedIn</a>
+    <br>📄 View my <a href="https://drive.google.com/drive/u/0/folders/1B8priGxtBDWcK-EnsYmnxwZ9iVwtGndk">CV</a>
   </li>
-  <li>⚡ Fun fact: **Coding is like solving puzzles; the more you practice, the better you get!**</li>
+  <li>⚡ Fun fact: <strong>Coding is like solving puzzles; the more you practice, the better you get!</strong></li>
 </ul>
 
 <h2>🌐 Socials</h2>
