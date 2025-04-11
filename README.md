@@ -51,9 +51,9 @@
 </p>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=AliRazaBugti&theme=react&show_icons=true&include_all_commits=true">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliRazaBugti&theme=react&layout=compact">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=alirazabugti1&theme=react&show_icons=true&include_all_commits=true">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirazabugti1&theme=react&layout=compact">
 </p>
 <hr>
-<p><a href="https://github.com/AliRazaBugti">AliRazaBugti</a></p>
+<p><a href="https://github.com/alirazabugti1">AliRazaBugti1</a></p>
 <p>Last Edited on: April 2025</p>
