@@ -1,65 +1,59 @@
+<h1 align="center">Hi 👋, I'm Ali Raza Bugti <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h3 align="center">A passionate App and Web Developer from Karachi, Pakistan</h3>
+
+<ul>
+<li>
+<p>🔭 I’m currently working on <strong>Flutter Apps and React Projects</strong></p>
+</li>
+<li>
+<p>🌱 I’m currently learning <strong>Machine Learning, Python, Data Science, React Native and Flask</strong></p>
+</li>
+<li>
+<p>👯 I’m looking to collaborate on <strong>Flutter based projects</strong></p>
+</li>
+<li>
+<p>📫 How to reach me: <strong><a href="mailto:razabugtiali@gmail.com">razabugtiali@gmail.com</a></strong></p>
+</li>
+<li>
+<p>⚡ What I like to do: <strong>Exploring new technologies, coding, and learning about AI/ML</strong></p>
+</li>
+</ul>
+
+<h3 align="center">Connect with me:</h3>
 <div align="center">
-  <h2>𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 &lt;𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/&gt;! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<p><a href="https://www.linkedin.com/in/ali-raza-bugti-42965a237/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:razabugtiali@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail"></a></p>
 </div>
 
-<div align="center" width="50">
-  <img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300">
-</div>
-
-<div align="center">
-  <p>Welcome to my GitHub! <br>
-  Feel free to explore my projects, raise issues, and contribute if you find something interesting. <br>
-  Got a question? <a href="mailto:razabugtiali@gmail.com"><b>Email me</b></a></p>
-  <p><i>Happy Coding!</i> 😊</p>
-</div>
-
----
-
-### 👨‍💻 About Me
-- 🎓 I'm **Ali Raza Bugti**, a BSCS student at Mohammad Ali Jinnah University (MAJU), Karachi.
-- 💻 Passionate about **Flutter**, **React Native**, and building innovative tech solutions.
-- 🌱 Currently learning and building in **Mobile App Dev**, **React**, and **Backend with Flask**.
-
----
-
-### 🚀 Tech Stack
-- **Languages**: C++, C, Python, JavaScript, Dart  
-- **Frameworks & Tools**: Flutter, React.js, React Native  
-- **Database**: Firebase, MongoDB, SQL Server  
-- **Version Control**: Git & GitHub  
-
----
-
-### 📱 Projects
-
-- 🔹 **Instagram Clone**  
-  Flutter-based UI, with login/logout, reels browser, and interactive post interface.
-
-- 🔹 **Finance Tracker App**  
-  Expense tracking, transaction history, and Firebase Auth integration.
-
-- 🔹 **Student Performance Analytics Dashboard**  
-  React + Flask dashboard to visualize student data with performance trends.
-
-- 🔹 **Amazon Clone**  
-  A responsive UI clone with product listings and shopping cart using HTML/CSS.
-
----
-
-### 📊 GitHub Stats
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alirazabugti1&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ali Raza's GitHub Stats">
-</div>
-
----
-
-### 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ali-raza-bugti-42965a237/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"> 
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"> 
+  </a> 
+  <a href="https://www.python.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"> 
+  </a>  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"> 
+  </a> 
+  <a href="https://flutter.dev/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"> 
+  </a> 
+  <a href="https://firebase.google.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"> 
+  </a>
 </p>
 
----
-
-<i>Last updated: April 2025</i>  
-<i>Credits: Modified from ABSphreak</i>
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=AliRazaBugti&theme=react&show_icons=true&include_all_commits=true">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliRazaBugti&theme=react&layout=compact">
+</p>
+<hr>
+<p><a href="https://github.com/AliRazaBugti">AliRazaBugti</a></p>
+<p>Last Edited on: April 2025</p>
