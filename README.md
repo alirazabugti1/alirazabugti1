@@ -54,6 +54,36 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=alirazabugti1&theme=react&show_icons=true&include_all_commits=true">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirazabugti1&theme=react&layout=compact">
 </p>
+
+<h3 align="center">Education</h3>
+<ul>
+  <li><strong>Intermediate Pre-Engineering (2020-2022)</strong> - Govt. Boys Degree College, Larkana</li>
+  <li><strong>Bachelor of Science in Computer Science (BSCS) (2022-2026)</strong> - Mohammad Ali Jinnah University (MAJU)</li>
+</ul>
+
+<h3 align="center">Projects</h3>
+<ul>
+  <li><strong>Instagram Clone</strong> - Developed a social media app UI using Flutter, user authentication, and interactive post engagement. <strong>Stack:</strong> Flutter, Dart, OOP.</li>
+  <li><strong>Finance Tracker App</strong> - Developed a finance tracking app with expense tracking, Firebase authentication, and data protection. <strong>Stack:</strong> Flutter, Dart, Firebase, OOP.</li>
+  <li><strong>Student Performance Analytics Dashboard</strong> - Built a dashboard to track student performance with trends, key stats, and insights. <strong>Stack:</strong> React.js, Flask, Data Science.</li>
+  <li><strong>Amazon Clone</strong> - Designed homepage, product listings, and shopping cart layout for a responsive UI. <strong>Stack:</strong> HTML, CSS.</li>
+</ul>
+
+<h3 align="center">Technologies</h3>
+<ul>
+  <li><strong>Languages:</strong> C++, C, Python, JavaScript, Dart</li>
+  <li><strong>Technologies:</strong> Flutter, ReactJs, React Native</li>
+  <li><strong>Database:</strong> MongoDB, SQL Server</li>
+  <li><strong>Version Control:</strong> GitHub</li>
+</ul>
+
+<h3 align="center">CV</h3>
+<p align="center">
+  <a href="https://drive.google.com/drive/u/0/folders/1B8priGxtBDWcK-EnsYmnxwZ9iVwtGndk" target="_blank">
+    <strong>Click here to view my CV</strong>
+  </a>
+</p>
+
 <hr>
-<p><a href="https://github.com/alirazabugti1">AliRazaBugti1</a></p>
-<p>Last Edited on: April 2025</p>
+<p align="center"><a href="https://github.com/alirazabugti1">AliRazaBugti1</a></p>
+<p align="center">Last Edited on: April 2025</p>
