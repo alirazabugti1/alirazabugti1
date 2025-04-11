@@ -27,7 +27,7 @@
 
 <h3 align="center">CV</h3>
 <p align="center">
-  <a href="https://drive.google.com/file/d/1B8priGxtBDWcK-EnsYmnxwZ9iVwtGndk/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/191MSy6sXcACeG_k0I-FsJPAAIhcjpdqz/view?usp=drive_link" target="_blank">
     <strong>Click here to view my CV</strong>
   </a>
 </p>
