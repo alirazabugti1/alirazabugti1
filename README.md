@@ -25,14 +25,6 @@
 <a href="mailto:razabugtiali@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail"></a></p>
 </div>
 
-<h3 align="center">Technologies</h3>
-<ul>
-  <li><strong>Languages:</strong> C++, C, Python, JavaScript, Dart</li>
-  <li><strong>Technologies:</strong> Flutter, ReactJs, React Native</li>
-  <li><strong>Database:</strong> MongoDB, SQL Server</li>
-  <li><strong>Version Control:</strong> GitHub</li>
-</ul>
-
 <h3 align="center">CV</h3>
 <p align="center">
   <a href="https://drive.google.com/drive/u/0/folders/1B8priGxtBDWcK-EnsYmnxwZ9iVwtGndk" target="_blank">
@@ -41,5 +33,3 @@
 </p>
 
 <hr>
-<p align="center"><a href="https://github.com/alirazabugti1">AliRazaBugti1</a></p>
-<p align="center">Last Edited on: April 2025</p>
