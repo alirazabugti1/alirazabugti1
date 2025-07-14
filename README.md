@@ -28,9 +28,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://drive.google.com/file/d/1bbifpLX1pjM6-avCrSEzL_XQowUYx841/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Google Drive-0F9D58?style=for-the-badge&logo=google-drive&logoColor=white" alt="Google Drive">
-  </a>
-  <a href="https://drive.google.com/file/d/191MSy6sXcACeG_k0I-FsJPAAIhcjpdqz/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume">
   </a>
   <a href="https://tangerine-babka-6b1c26.netlify.app/" target="_blank">
